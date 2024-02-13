@@ -1,0 +1,796 @@
+{
+    "libros": [
+        {
+            "id": 1,
+            "titulo": "MAÑANA Y TARDE",
+            "autor": "Jon Fosse",
+            "isbn": "9788419735621",
+            "imagen": "./assets/img/libros/mañana y tarde.jpg",
+            "detalleUrl": "./libros/mananaytarde.html"
+        },
+        {
+            "id": 2,
+            "titulo": "SIGO SIN SABER DE TI",
+            "autor": "Peter Orner",
+            "isbn": "9788412498288",
+            "imagen": "./assets/img/libros/sigo sin saber de ti.jpg",
+            "detalleUrl": "./libros/sigosinsaberdeti.html"
+        },
+        {
+            "id": 3,
+            "titulo": "REGGAETÓN. UNA REVOLUCIÓN LATINA",
+            "autor": "Pablito Wilson",
+            "isbn": "9788419234018",
+            "imagen": "./assets/img/libros/reggaeton una revolucion latina.jpg",
+            "detalleUrl": "./libros/reggaetonunarevolucionlatina.html"
+        },
+        {
+            "id": 4,
+            "titulo": "EL ALA DERECHA",
+            "autor": "Mircea Cartarescu",
+            "isbn": "9788418668692",
+            "imagen": "./assets/img/libros/el ala derecha.jpeg",
+            "detalleUrl": "./libros/elaladerecha.html"
+        },
+        {
+            "id": 5,
+            "titulo": "EL AMOR ES IMPOSIBLE",
+            "autor": "Dario Sztajnszrajber",
+            "isbn": "9788434436732",
+            "imagen": "./assets/img/libros/el amor es imposible.jpg",
+            "detalleUrl": "./libros/elamoresimposible.html"
+        },
+        {
+            "id": 6,
+            "titulo": "EL PROBLEMA DE LOS TRES CUERPOS",
+            "autor": "Cixin Liu",
+            "isbn": "9788490695289",
+            "imagen": "./assets/img/libros/el problema de los tres cuerpos.jpg",
+            "detalleUrl": "./libros/elproblemadelostrescuerpos.html"
+        },
+        {
+            "id": 7,
+            "titulo": "POMBERO",
+            "autor": "Marina Closs",
+            "isbn": "9788483933282",
+            "imagen": "./assets/img/libros/pombero.jpg",
+            "detalleUrl": "./libros/pombero.html"
+        },
+        {
+            "id": 8,
+            "titulo": "DARNAUCHANS, ENTRE EL CUERVO Y EL ÁNGEL",
+            "autor": "Marcelo Rodríguez",
+            "isbn": "9789974836105",
+            "imagen": "./assets/img/libros/entre el cuervo y el angel.jpeg",
+            "detalleUrl": "./libros/entreelcuervoyelangel.html"
+        },
+        {
+            "id": 9,
+            "titulo": "LA FRECUENTE OSCURIDAD DE NUESTROS DÍAS",
+            "autor": "Rebecca Donner",
+            "isbn": "9788419089595",
+            "imagen": "./assets/img/libros/la frecuente oscuridad de nuestros dias.jpg",
+            "detalleUrl": "./libros/lafrecuenteoscuridad.html"
+        },
+        {
+            "id": 10,
+            "titulo": "CLANDESTINA",
+            "autor": "Marie Jalowicz Simon",
+            "isbn": "9788418838514",
+            "imagen": "./assets/img/libros/clandestina.jpg",
+            "detalleUrl": "./libros/clandestina.html"
+        },
+        {
+            "id": 11,
+            "titulo": "UN CABALLERO A LA DERIVA",
+            "autor": "Herbert Clyde Lewis",
+            "isbn": "9788418838668",
+            "imagen": "./assets/img/libros/un caballero a la deriva.jpg",
+            "detalleUrl": "./libros/uncaballeroaladeriva.html"
+        },
+        {
+            "id": 12,
+            "titulo": "TORTURA. HAY UNA BOMBA A PUNTO DE ESTALLAR",
+            "autor": "Bob Brecher",
+            "isbn": "9788419583130",
+            "imagen": "./assets/img/libros/tortura.jpg",
+            "detalleUrl": "./libros/tortura.html"
+        },
+        {
+            "id": 13,
+            "titulo": "ALGUNAS FORMAS DE AMOR",
+            "autor": "Charlotte Mew",
+            "isbn": "9788416291694",
+            "imagen": "./assets/img/libros/algunas formas de amor.jpg",
+            "detalleUrl": "./libros/algunasformasdeamor.html"
+        },
+        {
+            "id": 14,
+            "titulo": "HISTORIAS DE VIGÁTA (VOL. 1)",
+            "autor": "Andrea Camilleri",
+            "isbn": "9788418481482",
+            "imagen": "./assets/img/libros/historias de vigata 1.jpg",
+            "detalleUrl": "./libros/historiasdevigata1.html"
+        },
+        {
+            "id": 15,
+            "titulo": "HISTORIAS DE VIGÁTA (VOL. 2)",
+            "autor": "Andrea Camilleri",
+            "isbn": "9788418481741",
+            "imagen": "./assets/img/libros/historias de vigata 2.jpg",
+            "detalleUrl": "./libros/historiasdevigata2.html"
+        },
+        {
+            "id": 16,
+            "titulo": "ASENTIR O DESESTABILIZAR",
+            "autor": "Rafael Chirbes",
+            "isbn": "9788419583994",
+            "imagen": "./assets/img/libros/asentir o desestabilizar.jpg",
+            "detalleUrl": "./libros/asentirodesestabilizar.html"
+        },
+        {
+            "id": 17,
+            "titulo": "AMIGOS Y HÉROES",
+            "autor": "Olivia Manning",
+            "isbn": "9788419089564",
+            "imagen": "./assets/img/libros/amigos y heroes.jpg",
+            "detalleUrl": "./libros/amigosyheroes.html"
+        },
+        {
+            "id": 18,
+            "titulo": "NO ME GUSTA MI CUELLO",
+            "autor": "Nora Ephron",
+            "isbn": "9788419089465",
+            "imagen": "./assets/img/libros/no me gusta mi cuello.jpg",
+            "detalleUrl": "./libros/nomegustamicuello.html"
+        },
+        {
+            "id": 19,
+            "titulo": "PALABRA POR PALABRA",
+            "autor": "Ida Vitale",
+            "isbn": "9789915675749",
+            "imagen": "./assets/img/libros/palabra por palabra.jpg",
+            "detalleUrl": "./libros/palabraporpalabra.html"
+        },
+        {
+            "id": 20,
+            "titulo": "PERSONAJES SECUNDARIOS",
+            "autor": "Joyce Johnson",
+            "isbn": "9788416213184",
+            "imagen": "./assets/img/libros/personajes secundarios.jpg",
+            "detalleUrl": "./libros/personajessecundarios.html"
+        },
+        {
+            "id": 21,
+            "titulo": "LA TORMENTA PERFECTA",
+            "autor": "Sebastian Junger",
+            "isbn": "9788419089618",
+            "imagen": "./assets/img/libros/la tormenta perfecta.jpg",
+            "detalleUrl": "./libros/latormentaperfecta.html"
+        },
+        {
+            "id": 22,
+            "titulo": "LAS MARIPOSAS NEGRAS",
+            "autor": "Gabriel Katz",
+            "isbn": "9788419346193",
+            "imagen": "./assets/img/libros/las mariposas negras.jpg",
+            "detalleUrl": "./libros/lasmariposasnegras.html"
+        },
+        {
+            "id": 23,
+            "titulo": "LOS DESTROZOS",
+            "autor": "Bret Easton Ellis",
+            "isbn": "9788439741725",
+            "imagen": "./assets/img/libros/los destrozos.jpg",
+            "detalleUrl": "./libros/losdestrozos.html"
+        },
+        {
+            "id": 24,
+            "titulo": "AMERICAN PSYCHO",
+            "autor": "Bret Easton Ellis",
+            "isbn": "9788466367653",
+            "imagen": "./assets/img/libros/american psycho.jpg",
+            "detalleUrl": "./libros/americanpsycho.html"
+        },
+        {
+            "id": 25,
+            "titulo": "LA TENTACIÓN DE EXISTIR",
+            "autor": "E. M. Cioran",
+            "isbn": "9788430626366",
+            "imagen": "./assets/img/libros/la tentacion de existir.jpg",
+            "detalleUrl": "./libros/latentaciondeexistir.html"
+        },
+        {
+            "id": 26,
+            "titulo": "16 DE OCTUBRE DE 1943",
+            "autor": "Giacomo Debenedetti",
+            "isbn": "9788494983764",
+            "imagen": "./assets/img/libros/16 de octubre de 1943.jpg",
+            "detalleUrl": "./libros/16deoctubrede1943.html"
+        },
+        {
+            "id": 27,
+            "titulo": "A FUERZA DE PUNTOS",
+            "autor": "Peter Szendy",
+            "isbn": "9789568415846",
+            "imagen": "./assets/img/libros/a fuerza de puntos.jpg",
+            "detalleUrl": "./libros/afuerzadepuntos.html"
+        },
+        {
+            "id": 28,
+            "titulo": "EL ABSOLUTISMO ILUSTRADO Y LOS POBRES: ASISTENCIA Y REPRESIÓN EN EL MADRID DEL SIGLO XVII",
+            "autor": "Jacques Soubeyroux",
+            "isbn": "9788418322808",
+            "imagen": "./assets/img/libros/absolutismo ilustrado y los pobres.jpg",
+            "detalleUrl": "./libros/absolutismoilustradoylospobres.html"
+        },
+        {
+            "id": 29,
+            "titulo": "ADULTOS",
+            "autor": "Marie Aubert",
+            "isbn": "9788418930485",
+            "imagen": "./assets/img/libros/adultos.jpg",
+            "detalleUrl": "./libros/adultos.html"
+        },
+        {
+            "id": 30,
+            "titulo": "AGUAMALA",
+            "autor": "Nicola Pugliese",
+            "isbn": "9788418370878",
+            "imagen": "./assets/img/libros/aguamala.jpg",
+            "detalleUrl": "./libros/aguamala.html"
+        },
+        {
+            "id": 31,
+            "titulo": "ALAMEDAS OSCURAS",
+            "autor": "Ivan Bunin",
+            "isbn": "9788419179128",
+            "imagen": "./assets/img/libros/alamedas oscuras.jpg",
+            "detalleUrl": "./libros/alamedasoscuras.html"
+        },
+        {
+            "id": 32,
+            "titulo": "ALDAO",
+            "autor": "María Teresa Andruetto",
+            "isbn": "9789877692655",
+            "imagen": "./assets/img/libros/aldao.jpg",
+            "detalleUrl": "./libros/aldao.html"
+        },
+        {
+            "id": 33,
+            "titulo": "LOS ALTRUISTAS",
+            "autor": "Andrew Ridker",
+            "isbn": "9788439738497",
+            "imagen": "./assets/img/libros/los altruistas.jpg",
+            "detalleUrl": "./libros/losaltruistas.html"
+        },
+        {
+            "id": 34,
+            "titulo": "LOS AÑOS EXTRAORDINARIOS",
+            "autor": "Rodrigo Cortés",
+            "isbn": "9789877692006",
+            "imagen": "./assets/img/libros/los años extraordinarios.jpg",
+            "detalleUrl": "./libros/losañosextraordinarios.html"
+        },
+        {
+            "id": 35,
+            "titulo": "ARCADÍA",
+            "autor": "Emanuelle Bayamack-Tam",
+            "isbn": "9789874489548",
+            "imagen": "./assets/img/libros/arcadia.jpg",
+            "detalleUrl": "./libros/arcadia.html"
+        },
+        {
+            "id": 36,
+            "titulo": "AUTOBIOGRAFÍA DEL GENERAL FRANCO",
+            "autor": "Manuel Vázquez Montalbán",
+            "isbn": "9788419179210",
+            "imagen": "./assets/img/libros/autobiografia del general franco.jpg",
+            "detalleUrl": "./libros/autobiografiadelgeneralfranco.html"
+        },
+        {
+            "id": 37,
+            "titulo": "LA AVENTURA SOÑADA: UN RETRATO DE HUGO PRATT",
+            "autor": "Thierry Thomas",
+            "isbn": "9788418859748",
+            "imagen": "./assets/img/libros/la aventura soñada.jpg",
+            "detalleUrl": "./libros/laaventurasoñada.html"
+        },
+        {
+            "id": 38,
+            "titulo": "BABYSITTER",
+            "autor": "Joyce Carol Oates",
+            "isbn": "9788420463087",
+            "imagen": "./assets/img/libros/babysitter.jpg",
+            "detalleUrl": "./libros/babysitter.html"
+        },
+        {
+            "id": 39,
+            "titulo": "LA BASTARDA (ENSAYO)",
+            "autor": "Violette Leduc",
+            "isbn": "9788412135473",
+            "imagen": "./assets/img/libros/la bastarda.jpg",
+            "detalleUrl": "./libros/labastarda.html"
+        },
+        {
+            "id": 40,
+            "titulo": "LAS BATALLAS DE LA BICI",
+            "autor": "James Longhurst",
+            "isbn": "9788416946334",
+            "imagen": "./assets/img/libros/las batallas de la bici.jpg",
+            "detalleUrl": "./libros/lasbatallasdelabici.html"
+        },
+        {
+            "id": 41,
+            "titulo": "BAUMEISTER",
+            "autor": "Martín Bentancor",
+            "isbn": "9789915668765",
+            "imagen": "./assets/img/libros/baumeister.jpg",
+            "detalleUrl": "./libros/baumeister.html"
+        },
+        {
+            "id": 42,
+            "titulo": "BETTY",
+            "autor": "Tiffany McDaniel",
+            "isbn": "9788418918056",
+            "imagen": "./assets/img/libros/betty.jpg",
+            "detalleUrl": "./libros/betty.html"
+        },
+        {
+            "id": 43,
+            "titulo": "BIEN Y MAL",
+            "autor": "Martin Buber",
+            "isbn": "9788412382617",
+            "imagen": "./assets/img/libros/bien y mal.jpg",
+            "detalleUrl": "./libros/bienymal.html"
+        },
+        {
+            "id": 44,
+            "titulo": "LA BUENA VOLUNTAD",
+            "autor": "Ingmar Bergman",
+            "isbn": "9788417617561",
+            "imagen": "./assets/img/libros/la buena voluntad.jpg",
+            "detalleUrl": "./libros/labuenavoluntad.html"
+        },
+        {
+            "id": 45,
+            "titulo": "EL CAPITALISMO EXPLICADO A MI NIETA",
+            "autor": "Jean Ziegler",
+            "isbn": "9789873621369",
+            "imagen": "./assets/img/libros/el capitalismo explicado a mi nieta.jpg",
+            "detalleUrl": "./libros/elcapitalismoexplicadoaminieta.html"
+        },
+        {
+            "id": 46,
+            "titulo": "EL CAPITALISTA SIMBÓLICO",
+            "autor": "Valentín Roma",
+            "isbn": "9788418838187",
+            "imagen": "./assets/img/libros/el capitalista simbolico.jpg",
+            "detalleUrl": "./libros/elcapitalistasimbolico.html"
+        },
+        {
+            "id": 47,
+            "titulo": "CASA COMO LABORATORIO. FINANZAS, VIVIENDA Y TRABAJO ESENCIAL",
+            "autor": "Luci Cavallero",
+            "isbn": "9789873687914",
+            "imagen": "./assets/img/libros/.jpg",
+            "detalleUrl": "./libros/casacomolaboratorio.html"
+        },
+        {
+            "id": 48,
+            "titulo": "LA CASA DEL TIEMPO",
+            "autor": "Laura Mancinelli",
+            "isbn": "9788418264894",
+            "imagen": "./assets/img/libros/la casa del tiempo.jpg",
+            "detalleUrl": "./libros/lacasadeltiempo.html"
+        },
+        {
+            "id": 49,
+            "titulo": "EL CASTIGO",
+            "autor": "Tahar Ben Jelloun",
+            "isbn": "9788494941405",
+            "imagen": "./assets/img/libros/el castigo.jpg",
+            "detalleUrl": "./libros/elcastigo.html"
+        },
+        {
+            "id": 49,
+            "titulo": "CAUTERIO",
+            "autor": "Lucia Lijtmaer",
+            "isbn": "9788433999467",
+            "imagen": "./assets/img/libros/cauterio.jpg",
+            "detalleUrl": "./libros/cauterio.html"
+        },
+        {
+            "id": 50,
+            "titulo": "CERBANTES PARK",
+            "autor": "Carlos Robles",
+            "isbn": "9788419311191",
+            "imagen": "./assets/img/libros/cerbantes park.jpg",
+            "detalleUrl": "./libros/cerbantespark.html"
+        },
+        {
+            "id": 51,
+            "titulo": "LAS CHICAS",
+            "autor": "Emma Cline",
+            "isbn": "9788433979582",
+            "imagen": "./assets/img/libros/las chicas.jpg",
+            "detalleUrl": "./libros/laschicas.html"
+        },
+        {
+            "id": 52,
+            "titulo": "EL CIRCULO DE LOS BLASFEMOS: UNA COMEDIA OBRERA",
+            "autor": "Alberto Prunetti",
+            "isbn": "9788418918070",
+            "imagen": "./assets/img/libros/el circulo de los blasfemos.jpg",
+            "detalleUrl": "./libros/elcirculosdelosblasfemos.html"
+        },
+        {
+            "id": 53,
+            "titulo": "CIUDAD OCUPADA: TRILOGIA DE TOKIO VOL. II",
+            "autor": "David Peace",
+            "isbn": "9788418918063",
+            "imagen": "./assets/img/libros/ciudad ocupada.jpg",
+            "detalleUrl": "./libros/ciudadocupada.html"
+        },
+        {
+            "id": 54,
+            "titulo": "LA CIUDADELA INTERIOR",
+            "autor": "Pierre Hadot",
+            "isbn": "9788492837472",
+            "imagen": "./assets/img/libros/la ciudadela interior.jpg",
+            "detalleUrl": "./libros/ciudadelainterior.html"
+        },
+        {
+            "id": 55,
+            "titulo": "CIUDADES HAMBRIENTAS: CÓMO EL ALIMENTO MOLDEA NUESTRAS VIDAS",
+            "autor": "Carolyn Steel",
+            "isbn": "9788412135442",
+            "imagen": "./assets/img/libros/ciudades hambrientas.jpg",
+            "detalleUrl": "./libros/ciudadeshambrientas.html"
+        },
+        {
+            "id": 56,
+            "titulo": "¿CÓMO SE FABRICA UN BEST SELLER POLÍTICO?",
+            "autor": "Ezequiel Saferstein",
+            "isbn": "9789878010960",
+            "imagen": "./assets/img/libros/como se fabrica un best seller politico.jpg",
+            "detalleUrl": "./libros/comosefabricaunbestsellerpolitico.html"
+        },
+        {
+            "id": 57,
+            "titulo": "LAS CONCIENCIAS REFRACTARIAS. CONTRAHISTORIA DE LA FILOSOFÍA IX",
+            "autor": "Michel Onfray",
+            "isbn": "9789874489586",
+            "imagen": "./assets/img/libros/las conciencias refractarias.jpg",
+            "detalleUrl": "./libros/lasconcienciasrefractarias.html"
+        },
+        {
+            "id": 58,
+            "titulo": "CONFESIONES DE UN ARTISTA DE MIERDA",
+            "autor": "Philip K. Dick",
+            "isbn": "9788445006108",
+            "imagen": "./assets/img/libros/confesiones de un artista de mierda.jpg",
+            "detalleUrl": "./libros/confesionesdeunartistademierda.html"
+        },
+        {
+            "id": 60,
+            "titulo": "CONVALECENCIAS: LA LITERATURA EN REPOSO",
+            "autor": "Daniel Ménager",
+            "isbn": "9788419207357",
+            "imagen": "./assets/img/libros/convalecencias.jpg",
+            "detalleUrl": "./libros/convalecencias.html"
+        },
+        {
+            "id": 61,
+            "titulo": "CORREO LITERARIO",
+            "autor": "Wislawa Szymborska",
+            "isbn": "9788417281182",
+            "imagen": "./assets/img/libros/correo literario.jpg",
+            "detalleUrl": "./libros/correoliterario.html"
+        },
+        {
+            "id": 62,
+            "titulo": "EL CREPÚSCULO DEL MUNDO",
+            "autor": "Werner Herzog",
+            "isbn": "9789878453392",
+            "imagen": "./assets/img/libros/el crepusculo del mundo.jpg",
+            "detalleUrl": "./libros/elcrepusculodelmundo.html"
+        },
+        {
+            "id": 64,
+            "titulo": "EL CRISANTEMO Y LA ESPADA",
+            "autor": "Ruth Benedict",
+            "isbn": "9788420653709",
+            "imagen": "./assets/img/libros/el crisantermo y la espada.jpg",
+            "detalleUrl": "./libros/elcrisantemoylaespada.html"
+        },
+        {
+            "id": 65,
+            "titulo": "LAS CRUZADAS VISTAS POR LOS ÁRABES",
+            "autor": "Amin Maalouf",
+            "isbn": "9788420609003",
+            "imagen": "./assets/img/libros/las cruzadas vistas por los arabes.jpg",
+            "detalleUrl": "./libros/lascruzadasvistasporlosarabes.html"
+        },
+        {
+            "id": 66,
+            "titulo": "CUENTO DE HADAS EN NUEVA YORK",
+            "autor": "J.P Donleavy",
+            "isbn": "9789874682727",
+            "imagen": "./assets/img/libros/cuento de hadas en nueva york.jpg",
+            "detalleUrl": "./libros/cuentodehadasennuevayork.html"
+        },
+        {
+            "id": 67,
+            "titulo": "CUENTOS DE TERROR",
+            "autor": "Alberto Laiseca",
+            "isbn": "9789873874642",
+            "imagen": "./assets/img/libros/cuentos de terror.jpg",
+            "detalleUrl": "./libros/cuentos de terror.html"
+        },
+        {
+            "id": 68,
+            "titulo": "LA CULTURA DEL ODIO",
+            "autor": "Talia Lavin",
+            "isbn": "9788412457889",
+            "imagen": "./assets/img/libros/la cultura del odio.jpg",
+            "detalleUrl": "./libros/la cultura del odio.html"
+        },
+        {
+            "id": 69,
+            "titulo": "EL CURSO DEL CORAZÓN",
+            "autor": "John Harrison",
+            "isbn": "9789874063014",
+            "imagen": "./assets/img/libros/el curso del corazon.jpg",
+            "detalleUrl": "./libros/elcursodelcorazon.html"
+        },
+        {
+            "id": 70,
+            "titulo": "DANZA DE LAS SOMBRAS",
+            "autor": "Alice Munro",
+            "isbn": "9788426410818",
+            "imagen": "./assets/img/libros/danza de las sombras.jpg",
+            "detalleUrl": "./libros/danzadelassombras.html"
+        },
+        {
+            "id": 71,
+            "titulo": "DE LA COCA COLA AL ARTE BOLUDO",
+            "autor": "Luis Camnitzer",
+            "isbn": "9789568415259",
+            "imagen": "./assets/img/libros/de la coca cola al arte boludo.jpg",
+            "detalleUrl": "./libros/delacocacolaalarteboludo.html"
+        },
+        {
+            "id": 72,
+            "titulo": "DE VERA VITA: PEQUEÑO TRATADO PARA UNA VIDA AUTÉNTICA",
+            "autor": "François Jullien",
+            "isbn": "9788418859793",
+            "imagen": "./assets/img/libros/de vera vita.jpg",
+            "detalleUrl": "./libros/deveravita.html"
+        },
+        {
+            "id": 73,
+            "titulo": "DECENCIA",
+            "autor": "Álvaro Enrigue",
+            "isbn": "9788433961143",
+            "imagen": "./assets/img/libros/decencia.jpg",
+            "detalleUrl": "./libros/decencia.html"
+        },
+        {
+            "id": 74,
+            "titulo": "DEGENERADO",
+            "autor": "Ariana Harwicz",
+            "isbn": "9788433998798",
+            "imagen": "./assets/img/libros/degenerado.jpg",
+            "detalleUrl": "./libros/degenerado.html"
+        },
+        {
+            "id": 75,
+            "titulo": "LOS DESARZONADOS",
+            "autor": "Pascal Quignard",
+            "isbn": "9789871772643",
+            "imagen": "./assets/img/libros/los desarzonados.jpg",
+            "detalleUrl": "./libros/losdesarzonados.html"
+        },
+        {
+            "id": 76,
+            "titulo": "DESPOSESIÓN",
+            "autor": "Judith Butler",
+            "isbn": "9788449339783",
+            "imagen": "./assets/img/libros/desposesion.jpg",
+            "detalleUrl": "./libros/desposesion.html"
+        },
+        {
+            "id": 77,
+            "titulo": "EL DETECTIVE SALVAJE",
+            "autor": "Jonathan Lethem",
+            "isbn": "9788439739777",
+            "imagen": "./assets/img/libros/el detective salvaje.jpg",
+            "detalleUrl": "./libros/eldetectivesalvaje.html"
+        },
+        {
+            "id": 78,
+            "titulo": "EL DÍA DE LA LANGOSTA",
+            "autor": "Nathanael West",
+            "isbn": "9788412382679",
+            "imagen": "./assets/img/libros/el dia de la langosta.jpg",
+            "detalleUrl": "./libros/el dia de la langosta.html"
+        },
+        {
+            "id": 79,
+            "titulo": "EL DÍA QUE ESCAPÉ DEL GUETO",
+            "autor": "John Carr",
+            "isbn": "9788418059971",
+            "imagen": "./assets/img/libros/el dia que escape del gueto.jpg",
+            "detalleUrl": "./libros/eldiaqueescapedelgueto.html"
+        },
+        {
+            "id": 80,
+            "titulo": "DIARIO DE LOS AÑOS DEL PLOMO",
+            "autor": "Richard Matheson",
+            "isbn": "9788412228052",
+            "imagen": "./assets/img/libros/diario de los años del plomo.jpg",
+            "detalleUrl": "./libros/diariodelosañosdelplomo.html"
+        },
+        {
+            "id": 81,
+            "titulo": "DICCIONARIO EN GUERRA",
+            "autor": "Aixa De la Cruz",
+            "isbn": "9788417496159",
+            "imagen": "./assets/img/libros/diccionario en guerra.jpg",
+            "detalleUrl": "./libros/diccionarioenguerra.html"
+        },
+        {
+            "id": 82,
+            "titulo": "DICCIONARIO ILUSTRADO DE LA MUERTE",
+            "autor": "Robert Sabatier",
+            "isbn": "9788425231193",
+            "imagen": "./assets/img/libros/diccionario ilustrado de la muerte.jpg",
+            "detalleUrl": "./libros/diccionarioilustradodelamuerte.html"
+        },
+        {
+            "id": 83,
+            "titulo": "DONDE EL SILENCIO",
+            "autor": "Luisge Martin",
+            "isbn": "9788433918239",
+            "imagen": "./assets/img/libros/donde el silencio.jpg",
+            "detalleUrl": "./libros/dondeelsilencio.html"
+        },
+        {
+            "id": 84,
+            "titulo": "DURAS POR DURAS",
+            "autor": "Margarite Duras",
+            "isbn": "9789874489661",
+            "imagen": "./assets/img/libros/duras por duras.jpg",
+            "detalleUrl": "./libros/durasporduras.html"
+        },
+        {
+            "id": 85,
+            "titulo": "EL ECO DE LOS DISPAROS - RÚSTICA: CULTURA Y MEMORIA DE LA VIOLENCIA",
+            "autor": "Edurne Portela",
+            "isbn": "9788417088767",
+            "imagen": "./assets/img/libros/el eco de los disparos.jpg",
+            "detalleUrl": "./libros/elecodelosdisparos.html"
+        },
+        {
+            "id": 86,
+            "titulo": "ELEGÍA",
+            "autor": "María Negroni",
+            "isbn": "9789871622207",
+            "imagen": "./assets/img/libros/elegia.jpg",
+            "detalleUrl": "./libros/elegia.html"
+        },
+        {
+            "id": 87,
+            "titulo": "EN ALGÚN RINCÓN DEL TIEMPO",
+            "autor": "Richard Matheson",
+            "isbn": "9788412551921",
+            "imagen": "./assets/img/libros/en algun rincon del tiempo.jpg",
+            "detalleUrl": "./libros/enalgunrincondeltiempo.html"
+        },
+        {
+            "id": 88,
+            "titulo": "EN LAKE SUCCESS",
+            "autor": "Gary Shteyngart",
+            "isbn": "9788420438955",
+            "imagen": "./assets/img/libros/en lake success.jpg",
+            "detalleUrl": "./libros/enlakesuccess.html"
+        },
+        {
+            "id": 89,
+            "titulo": "LA ENCOMIENDA",
+            "autor": "Margarita Garcia Robayo",
+            "isbn": "9788433999511",
+            "imagen": "./assets/img/libros/la encomienda.jpg",
+            "detalleUrl": "./libros/laencomienda.html"
+        },
+        {
+            "id": 90,
+            "titulo": "EL ENIGMA DEL OFICIO. MEMORIAS DE UN AGENTE LITERARIO",
+            "autor": "Guillermo Schavelzon",
+            "isbn": "9789874161819",
+            "imagen": "./assets/img/libros/el enigma del oficio.jpg",
+            "detalleUrl": "./libros/elenigmadeloficio.html"
+        },
+        {
+            "id": 91,
+            "titulo": "ENSALADA LOCA",
+            "autor": "Nora Ephron",
+            "isbn": "9788433981356",
+            "imagen": "./assets/img/libros/ensalada loca.jpg",
+            "detalleUrl": "./libros/ensaladaloca.html"
+        },
+        {
+            "id": 92,
+            "titulo": "ENSAYISMO",
+            "autor": "Brian Dillon",
+            "isbn": "9788433901828",
+            "imagen": "./assets/img/libros/ensayismo.jpg",
+            "detalleUrl": "./libros/ensayismo.html"
+        },
+        {
+            "id": 93,
+            "titulo": "ENSAYOS LITERARIOS: SHAKESPEARE, VIDAS DE POETAS Y THE RAMBLER",
+            "autor": "Samuel Johnson",
+            "isbn": "9788415863878",
+            "imagen": "./assets/img/libros/ensayos literarios.jpg",
+            "detalleUrl": "./libros/ensayosliterarios.html"
+        },
+        {
+            "id": 94,
+            "titulo": "ENSAYOS SOBRE FILOSOFÍA DEL TIEMPO",
+            "autor": "Arthur N. Prior",
+            "isbn": "9788494958120",
+            "imagen": "./assets/img/libros/ensayos sobre filosofia del tiempo.jpg",
+            "detalleUrl": "./libros/ensayossobrefilosofiadeltiempo.html"
+        },
+        {
+            "id": 95,
+            "titulo": "ENTRE PUEBLO E IMPERIO: ESTADO AGONIZANTE E IZQUIERDA EN RUINAS",
+            "autor": "Mario Barcellona",
+            "isbn": "9788413640228",
+            "imagen": "./assets/img/libros/entre pueblo e imperio.jpg",
+            "detalleUrl": "./libros/entrepuebloeimperio.html"
+        },
+        {
+            "id": 96,
+            "titulo": "EL EPITAFIO DE LOS PERDEDORES",
+            "autor": "Andrew Szepessy",
+            "isbn": "9788419207500",
+            "imagen": "./assets/img/libros/el epitafio de los perdedores.jpg",
+            "detalleUrl": "./libros/elepitafiodelosperdedores.html"
+        },
+        {
+            "id": 97,
+            "titulo": "¿ES REAL LA REALIDAD? CONFUSION DESINFORMATICA, COMUNICACION",
+            "autor": "Paul Watzlawick",
+            "isbn": "9788425410826",
+            "imagen": "./assets/img/libros/es real la realidad.jpg",
+            "detalleUrl": "./libros/esreallarealidad.html"
+        },
+        {
+            "id": 98,
+            "titulo": "ESCALA TÉCNICA",
+            "autor": "Francisco Mouat",
+            "isbn": "9789569667718",
+            "imagen": "./assets/img/libros/escala tecnica.jpg",
+            "detalleUrl": "./librosescalatecnica.html"
+        },
+        {
+            "id": 99,
+            "titulo": "ESCRITOS Y DICHOS SOBRE EL LIBRO",
+            "autor": "Manuel Bartolome",
+            "isbn": "9788435091534",
+            "imagen": "./assets/img/libros/escritos y dichos sobre el libro.jpg",
+            "detalleUrl": "./libros/escritosydichosobreellibro.html"
+        },
+        {
+            "id": 100,
+            "titulo": "LA ESCRITURA INDÓMITA",
+            "autor": "Mary Oliver",
+            "isbn": "9788417800635",
+            "imagen": "./assets/img/libros/la escritura indomita.jpg",
+            "detalleUrl": "./libros/laescrituraindomita.html"
+        }
+    ]
+}

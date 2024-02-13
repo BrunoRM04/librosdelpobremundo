@@ -1,0 +1,585 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap');
+*{ 
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    padding: 0;
+    margin: 0;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Merriweather', serif;
+}
+/* ENCABEZADO */
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px;
+    background-image: url(../pages/fondo1.jpg);
+    color: #fff;
+}
+.logo {
+    display: flex;
+    align-items: center;
+}
+.logo img {
+    width: 70px;
+    margin-right: 15px;
+}
+.nav-list {
+    list-style: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+.nav-list li {
+    margin-right: 20px;
+}
+.nav-list li:last-child {
+    margin-right: 0;
+}
+.nav-list a {
+    text-decoration: none;
+    color: #fff;
+}
+.nav-list a:hover{
+    color: #800d0d;
+    transition: 0.9s;
+}
+.menu-toggle {
+    display: none;
+    flex-direction: column;
+    cursor: pointer;
+}
+.bar {
+    width: 25px;
+    height: 3px;
+    background-color: #fff;
+    margin: 3px 0;
+}
+/* ENCABEZADO */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* BUSCADOR */
+.search-container {
+    display: flex;
+    justify-content: center; /* Agrega esta propiedad para centrar horizontalmente */
+    align-items: center; /* Agrega esta propiedad para centrar verticalmente */
+    max-width: 400px;
+    width: 100%;
+    background-color: #fff;
+    border-radius: 25px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+    margin: 0 auto; /* Agrega esta propiedad para centrar horizontalmente en la pantalla */
+    margin-top: 30px;
+}
+#search-input {
+    flex: 1;
+    border: none;
+    padding: 10px;
+    border-radius: 25px 0 0 25px;
+    outline: none;
+}
+#search-button {
+    background-color: #9e0001;
+    color: #fff;
+    border: none;
+    border-radius: 0 25px 25px 0;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+.results {
+    margin-top: 20px;
+    width: 100%;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+    padding: 20px;
+}
+/* BUSCADOR */
+/* ESTILOS DE RESULTADOS */
+.resultado {
+    display: grid;
+    grid-template-columns: 1fr 3fr auto;
+    grid-template-rows: auto auto;
+    grid-gap: 10px;
+    align-items: center;
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+    background-color: #f5f5f5;
+}
+.resultado h3 {
+    color: #333;
+    font-size: 20px;
+    font-weight: 900;
+    grid-row: 1;
+    grid-column: 2;
+}
+.resultado img {
+    max-width: 100px;
+    grid-row: 1 / span 2;
+    grid-column: 1;
+    margin-right: 10px; /* Espaciado entre la imagen y el título */
+}
+.resultado .autor {
+    color: #9e0001;
+    font-weight: 600;
+    font-size: 14px;
+    grid-row: 2;
+    grid-column: 2;
+    margin-top: 40px;
+}
+.resultado .isbn {
+    color: #9e0001;
+    font-weight: 600;
+    font-size: 14px;
+    grid-row: 2;
+    grid-column: 2;
+}
+.resultado a {
+    text-decoration: none;
+    color: #fff;
+    background-color: #9e0001;
+    padding: 5px 10px;
+    grid-row: 1 / span 2;
+    grid-column: 3;
+    justify-self: end;
+    border-radius: 20px;
+}
+/* ESTILOS DE RESULTADOS */
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* NOVEDADES */
+.novedades {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #ffffff; /* Color del texto */
+    padding: 10px;
+    margin-top: 15px;
+}
+.titulo {
+    margin-left: 20px; /* Margen izquierdo para el título */
+    background-color: #9e0001;
+    border-radius: 5px; 
+}
+.ver-todos {
+    margin-right: 20px; /* Margen derecho para el enlace "Ver todos" */
+}
+.ver-todos a {
+    text-decoration: none; /* Elimina la línea de debajo del enlace */
+    color: #9e0001; /* Cambia el color del enlace a blanco */
+}
+/* NOVEDADES */
+/* LINEA */
+.linea {
+    border: none;
+    height: 3px;
+    background-color: #000;
+}
+/* LINEA */
+/* CONTENEDORES */
+.container {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+    padding: 20px;
+    justify-content: center;
+}
+.card {
+    background-color: rgb(236, 236, 236);
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    text-align: left;
+    transition: box-shadow 0.3s, transform 0.3s;
+}
+.card:hover {
+    box-shadow: 0 8px 12px rgba(0, 0, 0, 0.2);
+    transform: scale(1.05);
+}
+.card img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+}
+.card h2 {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+}
+.comprar-button {
+    background-color: #9e0001;
+    color: #fff;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    margin-top: 25px;
+}
+.comprar-button a{
+    color: #fff;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    margin-top: 15px;
+    text-decoration: none;
+}
+.comprar-button:hover {
+    background-color: #800d0d;
+}
+/* CONTENEDORES */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* SECCIÓN DE LIBROS */
+.book-section {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 20px;
+    max-width: 800px;
+    margin: 0 auto;
+}
+.book-details {
+    flex: 1;
+    padding: 20px;
+}
+.book-image {
+    flex: 1;
+    text-align: center;
+    padding: 20px;
+}
+h2 {
+    font-size: 24px;
+}
+p {
+    font-size: 16px;
+    margin: 5px 0;
+}
+.description {
+    font-size: 14px;
+    margin-top: 50px;
+}
+img {
+    max-width: 100%;
+    height: auto;
+}
+.buy-button {
+    display: inline-block;
+    background-color: #9e0001; /* Cambia el color de fondo según tus preferencias */
+    color: #fff; /* Cambia el color del texto según tus preferencias */
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    text-decoration: none;
+    font-size: 16px;
+    margin-top: 10px;
+}
+.buy-button:hover {
+    background-color: #800d0d; /* Cambia el color de fondo cuando se coloca el ratón sobre el botón */
+}
+/* SECCIÓN DE LIBROS */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* PIE DE PÁGINA */
+.footer {
+    background-color: #800d0d;
+    color: white;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.left-section {
+    text-align: left;
+}
+.center-section {
+    text-align: center;
+}
+.right-section {
+    text-align: right;
+}
+.footer a {
+    color: white;
+    text-decoration: none;
+}
+.footer a:hover {
+    text-decoration: underline;
+}
+.footer .social-icons {
+    margin-top: 10px;
+}
+.footer .social-icons a {
+    margin: 0 10px;
+    font-size: 20px;
+}
+/* PIE DE PÁGINA */
+
+
+
+
+
+
+
+
+
+
+
+/* MEDIA QUARES */
+@media (max-width: 768px) {
+    .nav-list {
+        display: none;
+        flex-direction: column;
+        background-color: #000000;
+        position: absolute;
+        top: 85px;
+        right: 0;
+        width: 100%;
+        padding: 15px;
+        z-index: 1;
+    }
+
+    .nav-list.active {
+        display: flex;
+    }
+
+    .menu-toggle {
+        display: flex;
+    }
+    .nav-list li{
+        margin: 10px 0;
+    }
+}
+@media (max-width: 768px) {
+    .container {
+        grid-template-columns: 1fr;
+    }
+}
+@media (max-width: 768px) {
+    .logo h2 {
+        font-size: 15px;
+    }
+}
+@media (max-width: 768px) {
+    .novedades {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .titulo, .ver-todos {
+        margin: 10px;
+        align-items: center;
+        justify-content: center
+    }
+}
+@media (max-width: 768px) {
+    .resultado {
+        grid-template-columns: 1fr;
+        grid-template-rows: auto auto auto auto;
+    }
+
+    .resultado h3 {
+        grid-row: 1;
+        grid-column: 1;
+    }
+
+    .resultado img {
+        grid-row: 2;
+        grid-column: 1;
+    }
+
+    .resultado .autor {
+        grid-row: 3;
+        grid-column: 1;
+    }
+
+    .resultado .isbn {
+        grid-row: 4;
+        grid-column: 1;
+    }
+
+    .resultado a {
+        grid-row: 2;
+        grid-column: 1;
+    }
+}
+@media screen and (max-width: 320px) {
+    .book-section {
+        flex-direction: column;
+    }
+
+    .book-details,
+    .book-image {
+        flex: auto;
+        text-align: center;
+    }
+
+    .book-image img {
+        max-width: 80%;
+    }
+}
+@media screen and (max-width: 375px) {
+    .book-section {
+        flex-direction: column;
+    }
+
+    .book-details,
+    .book-image {
+        flex: auto;
+        text-align: center;
+    }
+
+    .book-image img {
+        max-width: 80%;
+    }
+}
+@media screen and (max-width: 425px) {
+    .book-section {
+        flex-direction: column;
+    }
+
+    .book-details,
+    .book-image {
+        flex: auto;
+        text-align: center;
+    }
+
+    .book-image img {
+        max-width: 80%;
+    }
+}
+@media (max-width: 768px) {
+    .footer {
+        flex-direction: column;
+        text-align: center;
+    }
+    .left-section, .center-section, .right-section {
+        flex: none;
+        text-align: center;
+    }
+}
+@media (max-width: 600px) {
+    .footer .social-icons {
+        margin-top: 20px;
+    }
+
+    .footer .social-icons a {
+        margin: 0 5px;
+        font-size: 18px;
+    }
+}
+/* MEDIA QUARES */
+/* MEDIA QUARES CONTENEDORES NUEVOS */
+@media (max-width: 768px) {
+    .container {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+@media (max-width: 425px) {
+    .container {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+@media (max-width: 375px) {
+    .container {
+        grid-template-columns: repeat(2, 1fr);
+        padding: 10px;
+    }
+
+    .card {
+        padding: 10px;
+    }
+
+    .comprar-button {
+        margin-top: 15px;
+    }
+    .titulo {
+        font-size: 24px;
+    }
+}
+@media (max-width: 320px) {
+    .container {
+        grid-template-columns: repeat(2, 1fr);
+        padding: 10px;
+    }
+    .card {
+        padding: 10px;
+    }
+    .comprar-button {
+        margin-top: 15px;
+    }
+    .titulo {
+        font-size: 24px;
+    }
+}
+/* MEDIA QUARES CONTENEDORES NUEVOS */
