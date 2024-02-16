@@ -791,6 +791,166 @@
             "isbn": "9788417800635",
             "imagen": "./assets/img/libros/la escritura indomita.jpg",
             "detalleUrl": "./libros/laescrituraindomita.html"
+        },
+        {
+            "id": 101,
+            "titulo": "¿COMO PERDISTE EL BRAZO, BALCHOWSKY?",
+            "autor": "Toni Orensanz",
+            "isbn": "9788419179975",
+            "imagen": "./assets/img/libros/como perdiste el brazo.jpg",
+            "detalleUrl": "./libros/comoperdisteelbrazo.html"
+        },
+        {
+            "id": 102,
+            "titulo": "¿QUE ES LA LOCURA?",
+            "autor": "Darian Leader",
+            "isbn": "9788415601234",
+            "imagen": "./assets/img/libros/que es la locura.jpg",
+            "detalleUrl": "./libros/queeslalocura.html"
+        },
+        {
+            "id": 103,
+            "titulo": "CRITICA DE LA CULTURA Y SOCIEDAD I",
+            "autor": "Theodor W. Adorno",
+            "isbn": "9788446016748",
+            "imagen": "./assets/img/libros/critica de la cultura y sociedad.jpg",
+            "detalleUrl": "./libros/criticadelaculturaysociedad.html"
+        },
+        {
+            "id": 104,
+            "titulo": "EL PEÓN",
+            "autor": "Paco Cerda",
+            "isbn": "9788417386504",
+            "imagen": "./assets/img/libros/el peon.jpg",
+            "detalleUrl": "./libros/elpeon.html"
+        },
+        {
+            "id": 106,
+            "titulo": "CARTAS A UN TRABAJADOR SOCIAL",
+            "autor": "Fernand Deligny",
+            "isbn": "9789873831539",
+            "imagen": "./assets/img/libros/cartas a un trabajador social.jpg",
+            "detalleUrl": "./libros/cartasauntrabajadorsocial.html"
+        },
+        {
+            "id": 107,
+            "titulo": "PEQUEÑAS MUJERES ROJAS",
+            "autor": "Marta Sanz",
+            "isbn": "9788433998965",
+            "imagen": "./assets/img/libros/pequeñas mujeres rojas.jpg",
+            "detalleUrl": "./libros/pequeñasmujeresrojas.html"
+        },
+        {
+            "id": 108,
+            "titulo": "LAS CUATRO ESQUINAS DEL CORAZÓN",
+            "autor": "FRANÇOISE SAGAN",
+            "isbn": "9788426408402",
+            "imagen": "./assets/img/libros/las cuatro esquinas del corazon.jpg",
+            "detalleUrl": "./libros/lascuatroesquinasdelcorazon.html"
+        },
+        {
+            "id": 109,
+            "titulo": "LA PLURALIDAD DEL MUNDO",
+            "autor": "Hannah Arendt",
+            "isbn": "9788430622610",
+            "imagen": "./assets/img/libros/la pluralidad del mundo.jpg",
+            "detalleUrl": "./libros/lapluralidaddelmundo.html"
+        },
+        {
+            "id": 110,
+            "titulo": "LOS HIJOS DE ATENEA: IDEAS ATENIENSES SOBRE LA CIUDADANIA Y LA DIVISION DE SEXOS",
+            "autor": "Nicole Loraux",
+            "isbn": "9788416748235",
+            "imagen": "./assets/img/libros/los hijos de atenea.jpg",
+            "detalleUrl": "./libros/los hijos de atenea.html"
+        },
+        {
+            "id": 111,
+            "titulo": "RESURRECCIONES Y RESCATES",
+            "autor": "Ida Vitale",
+            "isbn": "9788417729073",
+            "imagen": "./assets/img/libros/resurrecciones y rescates.jpg",
+            "detalleUrl": "./libros/resurreccionesyrescates.html"
+        },
+        {
+            "id": 112,
+            "titulo": "TEORÍA DE KING KONG",
+            "autor": "Virginie Despentes",
+            "isbn": "9788439733997",
+            "imagen": "./assets/img/libros/teoria de king kong.jpg",
+            "detalleUrl": "./libros/teoriadekingkong.html"
+        },
+        {
+            "id": 113,
+            "titulo": "HORACIO QUIROGA Y ALFONSINA STORNI",
+            "autor": "Fernando Klein",
+            "isbn": "9789915652450",
+            "imagen": "./assets/img/libros/horacio quiroga y alfonsina storni.jpg",
+            "detalleUrl": "./libros/horacioquirogayalfonsinastorni.html"
+        },
+        {
+            "id": 114,
+            "titulo": "ABSOLUTAMENTE TODO (MAPA DE LAS LENGUAS)",
+            "autor": "Ruben Orozco",
+            "isbn": "9788439740087",
+            "imagen": "./assets/img/libros/absolutamente todo.jpg",
+            "detalleUrl": "./libros/absolutamentetodo.html"
+        },
+        {
+            "id": 115,
+            "titulo": "CUALQUIER VERANO ES UN FINAL",
+            "autor": "Ro Loriga",
+            "isbn": "9788420456539",
+            "imagen": "./assets/img/libros/cualquier verano es un final.jpg",
+            "detalleUrl": "./libros/cualquierveranoesunfinal.html"
+        },
+        {
+            "id": 116,
+            "titulo": "LOS PENÚLTIMOS DÍAS DE LA HUMANIDAD",
+            "autor": "Javir Rodriguez Hidalgo",
+            "isbn": "9788417386900",
+            "imagen": "./assets/img/libros/los penultimos dias de la humanidad.jpg",
+            "detalleUrl": "./libros/lospenultimosdiasdelahumanidad.html"
+        },
+        {
+            "id": 117,
+            "titulo": "RICCARDINO",
+            "autor": "Andrea Camilleri",
+            "isbn": "9788418681165",
+            "imagen": "./assets/img/libros/ricardino.jpg",
+            "detalleUrl": "./libros/ricardino.html"
+        },
+        {
+            "id": 118,
+            "titulo": "HASTA LA MUERTE",
+            "autor": "Amoz Oz",
+            "isbn": "9788416638895",
+            "imagen": "./assets/img/libros/hasta la muerte.jpg",
+            "detalleUrl": "./libros/hastalamuerte.html"
+        },
+        {
+            "id": 119,
+            "titulo": "CARTONEROS, RECUPERADORES DE DESECHOS Y CAUSAS PERDIDAS",
+            "autor": "Eduardo Anguita",
+            "isbn": "9875451142",
+            "imagen": "./assets/img/libros/cartoneros.jpg",
+            "detalleUrl": "./libros/cartoneros.html"
+        },
+        {
+            "id": 120,
+            "titulo": "MI CASA ERA LA CÁRCEL DEL PUEBLO",
+            "autor": "María Zulema Arena",
+            "isbn": "9789915656724",
+            "imagen": "./assets/img/libros/mi casa era la carcel del pueblo.jpg",
+            "detalleUrl": "./libros/micasaeralacarceldelpueblo.html"
+        },
+        {
+            "id": 121,
+            "titulo": "COMO SE HACE UNA TESIS",
+            "autor": "Umberto Eco",
+            "isbn": "9788474328967",
+            "imagen": "./assets/img/libros/como se hace una tesis.jpg",
+            "detalleUrl": "./libros/comosehaceunatesis.html"
         }
     ]
 }
