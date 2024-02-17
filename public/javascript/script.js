@@ -77,4 +77,26 @@ cargarBaseDeDatos();
 
 
 
+document.addEventListener('DOMContentLoaded', function () {
+    const overlay = document.getElementById('overlay');
+    const popup = document.getElementById('popup');
+    const closeBtn = document.getElementById('closeBtn');
+  
+    closeBtn.addEventListener('click', function () {
+      overlay.style.display = 'none';
+    });
+  
+    // Mostrar la ventana emergente después de un tiempo determinado (por ejemplo, 3 segundos)
+    setTimeout(function () {
+      overlay.style.display = 'flex';
+    }, 1000);
+  });
+  
+
+
+
+
+
+
+
 
