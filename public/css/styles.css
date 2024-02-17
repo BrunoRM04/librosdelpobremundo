@@ -740,3 +740,30 @@ img {
     color: white;
     transition: 0.6s;
   }
+
+
+
+
+
+
+
+
+  .contador {
+    max-width: 600px;
+    margin: 30px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    background-color: #9e0001;
+  }
+  
+  .title-contador {
+    color: #ffffff;
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .visit-counter {
+    color: #ffffff;
+    font-size: 18px;
+  }

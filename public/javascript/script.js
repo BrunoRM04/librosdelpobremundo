@@ -89,9 +89,36 @@ document.addEventListener('DOMContentLoaded', function () {
     // Mostrar la ventana emergente después de un tiempo determinado (por ejemplo, 3 segundos)
     setTimeout(function () {
       overlay.style.display = 'flex';
-    }, 1000);
+    }, 0);
+  });
+
+
+
+
+
+
+  document.addEventListener('DOMContentLoaded', function() {
+    let contador = localStorage.getItem('visitas');
+  
+    if (contador === null) {
+      contador = 0;
+    } else {
+      contador = parseInt(contador);
+    }
+  
+    document.getElementById('contador').textContent = contador;
+  
+    contador++;
+  
+    localStorage.setItem('visitas', contador.toString());
   });
   
+
+
+
+
+
+
 
 
 
