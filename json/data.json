@@ -983,6 +983,38 @@
             "isbn": "9788493654016",
             "imagen": "./assets/img/libros/filosofia como forma de vida.jpg",
             "detalleUrl": "./libros/filosofiacomoformadevida.html"
+        },
+        {
+            "id": 125,
+            "titulo": "EL FIN DEL MUNDO Y EL INICIO",
+            "autor": "Olivia Teroba",
+            "isbn": "9789566137207",
+            "imagen": "./assets/img/libros/el fin del mundo y el inicio.jpg",
+            "detalleUrl": "./libros/elfindelmundoyelinicio.html"
+        },
+        {
+            "id": 126,
+            "titulo": "EL FINAL DE LA HISTORIA",
+            "autor": "Lydia Davis",
+            "isbn": "9788412577761",
+            "imagen": "./assets/img/libros/el final de la historia.jpg",
+            "detalleUrl": "./libros/elfinaldelahistoria.html"
+        },
+        {
+            "id": 127,
+            "titulo": "FORMAS DE ESTAR LEJOS",
+            "autor": "Edurne Portela",
+            "isbn": "9788417747107",
+            "imagen": "./assets/img/libros/formas de esatr lejos.jpg",
+            "detalleUrl": "./libros/formasdeestarlejos.html"
+        },
+        {
+            "id": 128,
+            "titulo": "LA FRONTERA",
+            "autor": "Can Xue",
+            "isbn": "9788412382624",
+            "imagen": "./assets/img/libros/la frontera.jpg",
+            "detalleUrl": "./libros/lafrontera.html"
         }
     ]
 }
