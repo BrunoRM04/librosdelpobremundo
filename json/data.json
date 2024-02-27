@@ -951,6 +951,38 @@
             "isbn": "9788474328967",
             "imagen": "./assets/img/libros/como se hace una tesis.jpg",
             "detalleUrl": "./libros/comosehaceunatesis.html"
+        },
+        {
+            "id": 122,
+            "titulo": "UN FANTASMA EN LA GARGANTA",
+            "autor": "Doireann Ní Ghríofa",
+            "isbn": "9788419261281",
+            "imagen": "./assets/img/libros/un fantasma en la garganta.jpg",
+            "detalleUrl": "./libros/unfantasmaenlagarganta.html"
+        },
+        {
+            "id": 123,
+            "titulo": "FEMINISMO POSTHUMANO",
+            "autor": "Rosi Braidotti",
+            "isbn": "9788418914751",
+            "imagen": "./assets/img/libros/feminismo posthumano.jpg",
+            "detalleUrl": "./libros/feminismoposthumano.html"
+        },
+        {
+            "id": 124,
+            "titulo": "LA FIESTA",
+            "autor": "Margaret Kennedy",
+            "isbn": "9788419179081",
+            "imagen": "./assets/img/libros/la fiesta.jpg",
+            "detalleUrl": "./libros/lafiesta.html"
+        },
+        {
+            "id": 124,
+            "titulo": "FILOSOFIA COMO FORMA DE VIDA",
+            "autor": "Pierre Hadot",
+            "isbn": "9788493654016",
+            "imagen": "./assets/img/libros/filosofia como forma de vida.jpg",
+            "detalleUrl": "./libros/filosofiacomoformadevida.html"
         }
     ]
 }
