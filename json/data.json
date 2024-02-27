@@ -1015,6 +1015,70 @@
             "isbn": "9788412382624",
             "imagen": "./assets/img/libros/la frontera.jpg",
             "detalleUrl": "./libros/lafrontera.html"
+        },
+        {
+            "id": 129,
+            "titulo": "LA GENTRIFICACIÓN ES INEVITABLE",
+            "autor": "Leslie Kern",
+            "isbn": "9789878928173",
+            "imagen": "./assets/img/libros/la gentrificacion es inevitable.jpg",
+            "detalleUrl": "./libros/lagentrificacionesinevitable.html"
+        },
+        {
+            "id": 130,
+            "titulo": "GOLPE DE KARATE",
+            "autor": "Dorthe Nors",
+            "isbn": "9788433981172",
+            "imagen": "./assets/img/libros/golpe de karate.jpg",
+            "detalleUrl": "./libros/golpedekarate.html"
+        },
+        {
+            "id": 131,
+            "titulo": "LA GUARDIANA DE RECUERDOS DE KYIV",
+            "autor": "Erin Litteken",
+            "isbn": "9788419311078",
+            "imagen": "./assets/img/libros/la guardiana de recuerdos de kyiv.jpg",
+            "detalleUrl": "./libros/laguardianaderecuerdosdekyiv.html"
+        },
+        {
+            "id": 132,
+            "titulo": "LA GUERRA DE LAS PLATAFORMAS",
+            "autor": "Carlos A. Scolari",
+            "isbn": "9788433916686",
+            "imagen": "./assets/img/libros/la guerra de las plataformas.jpg",
+            "detalleUrl": "./libros/laguerradelasplataformas.html"
+        },
+        {
+            "id": 133,
+            "titulo": "HABLADURÍAS DE MUJERES",
+            "autor": "Lin Bai",
+            "isbn": "9788417594435",
+            "imagen": "./assets/img/libros/habladurias de mujeres.jpg",
+            "detalleUrl": "./libros/habladuriasdemujeres.html"
+        },
+        {
+            "id": 134,
+            "titulo": "LA GUERRA DE LAS PLATAFORMAS",
+            "autor": "Carlos A. Scolari",
+            "isbn": "9788433916686",
+            "imagen": "./assets/img/libros/la guerra de las plataformas.jpg",
+            "detalleUrl": "./libros/laguerradelasplataformas.html"
+        },
+        {
+            "id": 135,
+            "titulo": "LA GUERRA DE LAS PLATAFORMAS",
+            "autor": "Carlos A. Scolari",
+            "isbn": "9788433916686",
+            "imagen": "./assets/img/libros/la guerra de las plataformas.jpg",
+            "detalleUrl": "./libros/laguerradelasplataformas.html"
+        },
+        {
+            "id": 136,
+            "titulo": "LA GUERRA DE LAS PLATAFORMAS",
+            "autor": "Carlos A. Scolari",
+            "isbn": "9788433916686",
+            "imagen": "./assets/img/libros/la guerra de las plataformas.jpg",
+            "detalleUrl": "./libros/laguerradelasplataformas.html"
         }
     ]
 }
