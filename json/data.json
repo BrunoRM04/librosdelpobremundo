@@ -1058,27 +1058,59 @@
         },
         {
             "id": 134,
-            "titulo": "LA GUERRA DE LAS PLATAFORMAS",
-            "autor": "Carlos A. Scolari",
-            "isbn": "9788433916686",
-            "imagen": "./assets/img/libros/la guerra de las plataformas.jpg",
-            "detalleUrl": "./libros/laguerradelasplataformas.html"
+            "titulo": "HASTA LA LOCURA, HASTA LA MUERTE",
+            "autor": "Kirsten Thorup",
+            "isbn": "9788419261342",
+            "imagen": "./assets/img/libros/hasta la locura, hasta la muerte.jpg",
+            "detalleUrl": "./libros/hastalalocurahastalamuerte.html"
         },
         {
             "id": 135,
-            "titulo": "LA GUERRA DE LAS PLATAFORMAS",
-            "autor": "Carlos A. Scolari",
-            "isbn": "9788433916686",
-            "imagen": "./assets/img/libros/la guerra de las plataformas.jpg",
-            "detalleUrl": "./libros/laguerradelasplataformas.html"
+            "titulo": "LA HEGEMONÍA DE LOS EXCLUIDOS",
+            "autor": "Antonio Gramsci",
+            "isbn": "9788418546778",
+            "imagen": "./assets/img/libros/la hegemonia de los excluidos.jpg",
+            "detalleUrl": "./libros/lahegemoniadelosexcluidos.html"
         },
         {
             "id": 136,
-            "titulo": "LA GUERRA DE LAS PLATAFORMAS",
-            "autor": "Carlos A. Scolari",
-            "isbn": "9788433916686",
-            "imagen": "./assets/img/libros/la guerra de las plataformas.jpg",
-            "detalleUrl": "./libros/laguerradelasplataformas.html"
+            "titulo": "HEREDARÁS LA TIERRA",
+            "autor": "Jane Smiley",
+            "isbn": "9788419261465",
+            "imagen": "./assets/img/libros/heredaras la tierra.jpg",
+            "detalleUrl": "./libros/heredaraslatierra.html"
+        },
+        {
+            "id": 137,
+            "titulo": "LOS HEREDEROS DE LA MINA",
+            "autor": "Jocelyne Saucier",
+            "isbn": "9788412211108",
+            "imagen": "./assets/img/libros/los herederos de la mina.jpg",
+            "detalleUrl": "./libros/losherederosdelamina.html"
+        },
+        {
+            "id": 138,
+            "titulo": "HÉROES",
+            "autor": "Stephen Fry",
+            "isbn": "9788433964748",
+            "imagen": "./assets/img/libros/heroes.jpg",
+            "detalleUrl": "./libros/heroes.html"
+        },
+        {
+            "id": 139,
+            "titulo": "HEREDARÁS LA TIERRA",
+            "autor": "Jane Smiley",
+            "isbn": "9788419261465",
+            "imagen": "./assets/img/libros/heredaras la tierra.jpg",
+            "detalleUrl": "./libros/heredaraslatierra.html"
+        },
+        {
+            "id": 140,
+            "titulo": "HERREROS Y ALQUIMISTAS",
+            "autor": "Mircea Eliade",
+            "isbn": "9788491042747",
+            "imagen": "./assets/img/libros/herreros y alquimistas.jpg",
+            "detalleUrl": "./libros/herrerosyalquimistas.html"
         }
     ]
 }
