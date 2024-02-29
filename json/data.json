@@ -1175,6 +1175,102 @@
             "isbn": "9788483932131",
             "imagen": "./assets/img/libros/iconomaquia.jpg",
             "detalleUrl": "./libros/iconomaquia.html"
+        },
+        {
+            "id": 150,
+            "titulo": "EL JARDÍN DE REINHARDT",
+            "autor": "Mark Haber",
+            "isbn": "9788418436581",
+            "imagen": "./assets/img/libros/el jardin de reinhardt.jpg",
+            "detalleUrl": "./libros/eljardindereinhardt.html"
+        },
+        {
+            "id": 151,
+            "titulo": "JAULAGRANDE",
+            "autor": "Guadalupe Faraj",
+            "isbn": "9789874178527",
+            "imagen": "./assets/img/libros/jaula grande.jpg",
+            "detalleUrl": "./libros/jaulagrande.html"
+        },
+        {
+            "id": 152,
+            "titulo": "JAVIER TOMEO",
+            "autor": "Javier Tomeo",
+            "isbn": "9788433906212",
+            "imagen": "./assets/img/libros/javier tomeo.jpg",
+            "detalleUrl": "./libros/javiertomeo.html"
+        },
+        {
+            "id": 153,
+            "titulo": "LOS JUGADORES DE TITÁN",
+            "autor": "Philip K. Dick",
+            "isbn": "9788445012468",
+            "imagen": "./assets/img/libros/los jugadores de titan.jpg",
+            "detalleUrl": "./libros/losjugadoresdetitan.html"
+        },
+        {
+            "id": 154,
+            "titulo": "EL LIBRO EXPANDIDO",
+            "autor": "Amaranth Borsux",
+            "isbn": "9789874161437",
+            "imagen": "./assets/img/libros/el libro expandido.jpg",
+            "detalleUrl": "./libros/ellibroexpandido.html"
+        },
+        {
+            "id": 155,
+            "titulo": "LA LIRA DE LAS MASAS",
+            "autor": "Martín Rodríguez-Gaona",
+            "isbn": "9788483932568",
+            "imagen": "./assets/img/libros/la lira de las masas.jpg",
+            "detalleUrl": "./libros/laliradelasmasas.html"
+        },
+        {
+            "id": 156,
+            "titulo": "LLUVIA Y VIENTO SOBRE TÉLUMÉE MILAGRO",
+            "autor": "Simone Schwarz-Bart",
+            "isbn": "9789874819185",
+            "imagen": "./assets/img/libros/lluvia y viento sobre telumee milagro.jpg",
+            "detalleUrl": "./libros/lluviayvientosobretelumeemilagro.html"
+        },
+        {
+            "id": 157,
+            "titulo": "LUCHAS MINORITARIAS Y LINEAS DE FUGA EN AMERICA LATINA",
+            "autor": "Patricia Landaeta",
+            "isbn": "9789566203148",
+            "imagen": "./assets/img/libros/luchas minoritarias.jpg",
+            "detalleUrl": "./libros/luchasminoritarias.html"
+        },
+        {
+            "id": 158,
+            "titulo": "MADEROS, CHUSMA Y ORDEN SOCIAL",
+            "autor": "Mark Neocleous",
+            "isbn": "9788416946624",
+            "imagen": "./assets/img/libros/maderos chusma y orden social.jpg",
+            "detalleUrl": "./libros/maderoschusmayordensocial.html"
+        },
+        {
+            "id": 159,
+            "titulo": "MALDITA ALEJANDRA",
+            "autor": "Ana Müshell",
+            "isbn": "9788426455598",
+            "imagen": "./assets/img/libros/maldita alejandra.jpg",
+            "detalleUrl": "./libros/malditaalejandra.html"
+        },
+        {
+            "id": 160,
+            "titulo": "UN MALESTAR INDEFINIDO",
+            "autor": "Samantha Harvey",
+            "isbn": "9788433964939",
+            "imagen": "./assets/img/libros/un malestar indefinido.jpg",
+            "detalleUrl": "./libros/unmalestarindefinido.html"
+        },
+        {
+            "id": 161,
+            "titulo": "MATERIA OSCURA",
+            "autor": "Philip Kerr",
+            "isbn": "9788418173912",
+            "imagen": "./assets/img/libros/materia oscura.jpg",
+            "detalleUrl": "./libros/materiaoscura.html"
         }
     ]
 }
