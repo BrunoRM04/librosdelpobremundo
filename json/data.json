@@ -1111,6 +1111,70 @@
             "isbn": "9788491042747",
             "imagen": "./assets/img/libros/herreros y alquimistas.jpg",
             "detalleUrl": "./libros/herrerosyalquimistas.html"
+        },
+        {
+            "id": 141,
+            "titulo": "HISTORIA DE LAS REVUELTAS PANAFRICANAS",
+            "autor": "C. L. R. James",
+            "isbn": "9788416946495",
+            "imagen": "./assets/img/libros/historia de las revueltas panafricanas.jpg",
+            "detalleUrl": "./libros/historiadelasrevueltaspanafricanas.html"
+        },
+        {
+            "id": 142,
+            "titulo": "HISTORIA DE UNA MUJER QUE CAMINÓ POR LA VIDA CON ZAPATOS DE DISEÑADOR",
+            "autor": "Margo Glantz",
+            "isbn": "9788433968760",
+            "imagen": "./assets/img/libros/historia de una mujer.jpg",
+            "detalleUrl": "./libros/historiadeunamujer.html"
+        },
+        {
+            "id": 143,
+            "titulo": "HISTORIA SOCIAL DEL CONOCIMIENTO",
+            "autor": "Peter Burke",
+            "isbn": "9788408176541",
+            "imagen": "./assets/img/libros/historia social del conocimiento.jpg",
+            "detalleUrl": "./libros/historiasocialdelconocimiento.html"
+        },
+        {
+            "id": 145,
+            "titulo": "HISTORIA Y FICCIÓN",
+            "autor": "Justo Serna",
+            "isbn": "9788416876693",
+            "imagen": "./assets/img/libros/historia y ficcion.jpg",
+            "detalleUrl": "./libros/historiayficcion.html"
+        },
+        {
+            "id": 146,
+            "titulo": "EL HOBBIT",
+            "autor": "J. R. R. Tolkien",
+            "isbn": "9788445012802",
+            "imagen": "./assets/img/libros/el hobbit.jpg",
+            "detalleUrl": "./libros/elhobbit.html"
+        },
+        {
+            "id": 147,
+            "titulo": "HONRARÁS A TU PADRE Y A TU MADRE",
+            "autor": "Cristina Fallarás",
+            "isbn": "9788433921260",
+            "imagen": "./assets/img/libros/honraras a tu padre y a tu madre.jpg",
+            "detalleUrl": "./libros/honrarasatupadreyatumadre.html"
+        },
+        {
+            "id": 148,
+            "titulo": "HORAS EXTRA",
+            "autor": "Will Stronge",
+            "isbn": "9789878413952",
+            "imagen": "./assets/img/libros/horas extra.jpg",
+            "detalleUrl": "./libros/horasextra.html"
+        },
+        {
+            "id": 149,
+            "titulo": "ICONOMAQUIA",
+            "autor": "Jorge Fernández Gonzalo",
+            "isbn": "9788483932131",
+            "imagen": "./assets/img/libros/iconomaquia.jpg",
+            "detalleUrl": "./libros/iconomaquia.html"
         }
     ]
 }
