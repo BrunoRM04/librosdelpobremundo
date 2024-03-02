@@ -15,7 +15,7 @@
         </div>
         <nav>
             <ul class="nav-list">
-                <li><a href="./index.html" style="font-weight: bold; font-family: Arial, Helvetica, sans-serif">INICIO</a></li>
+                <li><a href="index.html" style="font-weight: bold; font-family: Arial, Helvetica, sans-serif">INICIO</a></li>
                 <li><a href="ejemplares.html" style="font-weight: bold; font-family: Arial, Helvetica, sans-serif">EJEMPLARES ÚNICOS</a></li>
                 <li><a href="podcast.html" style="font-weight: bold; font-family: Arial, Helvetica, sans-serif">PODCAST Y RESEÑAS</a></li>
                 <li><a href="contacto.html" style="font-weight: bold; font-family: Arial, Helvetica, sans-serif">CONTACTO</a></li>
@@ -28,24 +28,34 @@
         </div>
     </header> <!-- ENCABEZADO -->
     <main>
-        <!DOCTYPE html>
-        <html lang="es">
-        <head>
-            <meta charset="UTF-8">
-            <meta name="viewport" content="width=device-width, initial-scale=1.0">
-            <title>Error 404 - Página no encontrada</title>
-            <link rel="stylesheet" href="styles.css">
-        </head>
-        <body>
-            <div class="notfound">
-            <h1>Error 404</h1>
-            <p>Página no encontrada</p>
-            <p>Seguimos cargando títulos...</p>
-            <p>Página en construcción</p>
+        <div class="contenedor-podcastyreseñas">
+            <div class="caja" id="podcast">
+                <img src="./assets/img/podcast.jpg" alt="Podcast Image">
+                <div class="botones">
+                    <a href="podcast.html">Ingresar</a>
+                </div>
+                <p>Podcast</p>
             </div>
-        </body>
-        </html>
+            <div class="caja" id="reseñas">
+                <img src="./assets/img/reseñas.jpg" alt="Reseñas Image">
+                <div class="botones">
+                    <a href="./todos/reseñas.html">Ingresar</a>
+                </div>
+                <p>Reseñas</p>
+            </div>
+        </div>
     </main>
+    <footer>  <!-- PIE DE PÁGINA -->
+        <div style="margin-top: 200px;" class="footer">
+            <div class="left-section">
+                <p>Contáctanos: <a href="mailto:librosdelpobremundo@gmail.com">librosdelpobremundo@gmail.com</a></p>
+            </div>
+            <div class="right-section">
+                <p>¡Síguenos en redes sociales! <a href="https://api.whatsapp.com/send?phone=94090711" target="_blank"><i class="fab fa-whatsapp"></i></a> <a href="https://www.instagram.com/tucuenta" target="_blank"><i class="fab fa-instagram"></i></a> <a href="https://www.facebook.com/tucuenta" target="_blank"><i class="fab fa-facebook"></i></a></p>
+                <p>Aceptamos pagos vía <img style="width: 70px;" src="./assets/img/mercadopago.png" alt="MercadoPago"></p>
+            </div>
+        </div>
+    </footer> <!-- PIE DE PÁGINA -->
     <script src="../javascript/script.js"></script>
 </body>
 </html>

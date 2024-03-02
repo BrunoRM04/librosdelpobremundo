@@ -761,9 +761,179 @@ img {
     color: #ffffff;
     font-size: 24px;
     margin-bottom: 20px;
-  }
-  
-  .visit-counter {
+}
+
+.visit-counter {
     color: #ffffff;
     font-size: 18px;
-  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.contenedor-podcastyreseñas {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+.caja {
+    position: relative;
+    width: 450px;
+    height: 225px;
+}
+.caja img {
+    width: 100%;
+    height: 100%;
+}
+.botones {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: #800d0d;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+}
+.caja:hover .botones {
+    opacity: 1;
+}
+.botones a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.caja p {
+    text-align: center;
+    margin-top: 10px;
+    font-size: 18px;
+    font-weight: bold;
+}
+@media screen and (max-width: 768px) {
+    .contenedor-podcastyreseñas {
+        flex-direction: column; /* Cambia la dirección del flex para que se apilen verticalmente */
+        align-items: center; /* Centra los elementos */
+    }
+
+    .caja {
+        width: calc(100% - 20px); /* Establece el ancho al 100% menos el espacio para los márgenes */
+        max-width: none; /* Elimina el ancho máximo */
+        margin-top: 60px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.reseñas-contenedor {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+    flex-wrap: wrap;
+}
+
+.reseñas-caja {
+    text-align: center;
+    width: 500px;
+}
+
+.reseñas-caja img {
+    width: 400px;
+    max-height: auto; /* Altura máxima de la imagen */
+    object-fit: cover; /* Cubre el espacio manteniendo la relación de aspecto */
+    cursor: pointer;
+    margin-right: 60px;
+}
+
+.reseñas-caja h3 {
+    margin-top: 10px;
+    font-size: 20px;
+    text-align: left;
+    margin-left: 20px;
+    color: #800d0d;
+}
+
+.reseñas-caja p {
+    font-size: 12px;
+    text-align: left;
+    margin-left: 20px;
+}
+
+.reseñas-caja:hover img {
+    opacity: 0.8; /* Reducir la opacidad al pasar el ratón para dar feedback visual */
+}
+@media screen and (max-width: 768px) {
+    .reseñas-caja {
+        width: calc(100% - 20px); /* Establece el ancho al 100% menos el espacio para los márgenes */
+        max-width: none; /* Elimina el ancho máximo */
+        margin-top: 50px;
+    }
+}
+
+
+
+
+
+
+.reseña-individual {
+    max-width: 800px; /* Ancho máximo del contenido */
+    margin: 0 auto; /* Centra el contenido horizontalmente */
+    padding: 0 20px; /* Agrega márgenes a los costados */
+    text-align: left; /* Alinea el texto a la izquierda */
+    margin-top: 50px;
+}
+.reseña-individual h1 {
+    color: #800d0d;
+}
+
+.reseña-individual img {
+    display: block; /* Permite agregar márgenes verticales */
+    margin: 20px auto; /* Centra la imagen horizontalmente y agrega margen superior e inferior */
+    max-width: 100%; /* Asegura que la imagen no exceda el ancho del contenedor */
+    height: auto; /* Permite que la imagen mantenga su relación de aspecto */
+}
