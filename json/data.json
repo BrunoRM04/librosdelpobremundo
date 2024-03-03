@@ -1286,7 +1286,15 @@
             "autor": "Jacobo Bergareche",
             "isbn": "9788419089441",
             "imagen": "./assets/img/libros/las despedidas.jpg",
-            "detalleUrl": "./libros/las despedidas.html"
+            "detalleUrl": "./libros/lasdespedidas.html"
+        },
+        {
+            "id": 164,
+            "titulo": "LOS DIVAGANTES",
+            "autor": "Guadalupe Nettel",
+            "isbn": "9788433908186",
+            "imagen": "./assets/img/libros/los divagantes.jpg",
+            "detalleUrl": "./libros/losdivagantes.html"
         }
     ]
 }
