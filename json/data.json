@@ -1271,6 +1271,22 @@
             "isbn": "9788418173912",
             "imagen": "./assets/img/libros/materia oscura.jpg",
             "detalleUrl": "./libros/materiaoscura.html"
+        },
+        {
+            "id": 162,
+            "titulo": "H. P. LOVECRAFT CONTRA EL MUNDO CONTRA LA VIDA",
+            "autor": "MICHEL HOUELLEBECQ",
+            "isbn": "9788433964663",
+            "imagen": "./assets/img/libros/contra el mundo contra la vida.jpg",
+            "detalleUrl": "./libros/contraelmundocontralavida.html"
+        },
+        {
+            "id": 163,
+            "titulo": "LAS DESPEDIDAS",
+            "autor": "Jacobo Bergareche",
+            "isbn": "9788419089441",
+            "imagen": "./assets/img/libros/las despedidas.jpg",
+            "detalleUrl": "./libros/las despedidas.html"
         }
     ]
 }
