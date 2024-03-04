@@ -1295,6 +1295,14 @@
             "isbn": "9788433908186",
             "imagen": "./assets/img/libros/los divagantes.jpg",
             "detalleUrl": "./libros/losdivagantes.html"
+        },
+        {
+            "id": 165,
+            "titulo": "LOS GUARDIANES DE LA SABIDURÍA ANCESTRAL",
+            "autor": "Wade Davis",
+            "isbn": "9788418322020",
+            "imagen": "./assets/img/libros/los guardianes de la sabiduria ancestral.jpg",
+            "detalleUrl": "./libros/losguardianesdelasabiduriaancestral.html"
         }
     ]
 }
