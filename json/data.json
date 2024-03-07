@@ -1303,6 +1303,14 @@
             "isbn": "9788418322020",
             "imagen": "./assets/img/libros/los guardianes de la sabiduria ancestral.jpg",
             "detalleUrl": "./libros/losguardianesdelasabiduriaancestral.html"
+        },
+        {
+            "id": 166,
+            "titulo": "UN LUGAR SOLEADO PARA GENTE SOMBRÍA",
+            "autor": "Mariana Enriquez",
+            "isbn": "9788433922861",
+            "imagen": "./assets/img/libros/un lugar soleado para gente sombria.jpg",
+            "detalleUrl": "./libros/unlugarsoleadoparagentesombria.html"
         }
     ]
 }
