@@ -1311,6 +1311,94 @@
             "isbn": "9788433922861",
             "imagen": "./assets/img/libros/un lugar soleado para gente sombria.jpg",
             "detalleUrl": "./libros/unlugarsoleadoparagentesombria.html"
+        },
+        {
+            "id": 167,
+            "titulo": "NEUROMANTE",
+            "autor": "William Gibson",
+            "isbn": "9788445009444",
+            "imagen": "./assets/img/libros/neuromante.jpg",
+            "detalleUrl": "./libros/neuromante.html"
+        },
+        {
+            "id": 168,
+            "titulo": "NIÑOS DE DOMINGO",
+            "autor": "Ingmar Bergman",
+            "isbn": "9788417617653",
+            "imagen": "./assets/img/libros/niños de domingo.jpg",
+            "detalleUrl": "./libros/niñosdedomingo.html"
+        },
+        {
+            "id": 169,
+            "titulo": "NO HAY PADRES PERFECTOS",
+            "autor": "Bruno Bettelheim",
+            "isbn": "9788408124016",
+            "imagen": "./assets/img/libros/no hay padres perfectos.jpg",
+            "detalleUrl": "./libros/nohaypadresperfectos.html"
+        },
+        {
+            "id": 170,
+            "titulo": "NO HAY SITIO EN EL ARCA",
+            "autor": "Alan Moorehead",
+            "isbn": "9788417594824",
+            "imagen": "./assets/img/libros/no hay sitio en el arca.jpg",
+            "detalleUrl": "./libros/nohaysitioenelarca.html"
+        },
+        {
+            "id": 171,
+            "titulo": "NO SE NECESITA CONTRASEÑA",
+            "autor": "Yulián Semenovič Semionov",
+            "isbn": "9788418918117",
+            "imagen": "./assets/img/libros/no se necesita contraseña.jpg",
+            "detalleUrl": "./libros/nosenecesitacontraseña.html"
+        },
+        {
+            "id": 172,
+            "titulo": "NO SOY ASÍ",
+            "autor": "Kjell Askildsen",
+            "isbn": "9788417281717",
+            "imagen": "./assets/img/libros/no soy asi.jpg",
+            "detalleUrl": "./libros/nosoyasi.html"
+        },
+        {
+            "id": 173,
+            "titulo": "NOS QUEDA LO MEJOR",
+            "autor": "Isabel González",
+            "isbn": "9788483933183",
+            "imagen": "./assets/img/libros/nos queda lo mejor.jpg",
+            "detalleUrl": "./libros/nosquedalomejor.html"
+        },
+        {
+            "id": 174,
+            "titulo": "NOSOTROS",
+            "autor": "Manuel Vilas",
+            "isbn": "9789507325809",
+            "imagen": "./assets/img/libros/nosotros.jpg",
+            "detalleUrl": "./libros/nosotros.html"
+        },
+        {
+            "id": 175,
+            "titulo": "NUBES FLOTANTES YA ENVEJECIDAS",
+            "autor": "Can Xue",
+            "isbn": "9788412551914",
+            "imagen": "./assets/img/libros/nubes flotantes ya envejecidas.jpg",
+            "detalleUrl": "./libros/nubesflotantesyaenvejecidas.html"
+        },
+        {
+            "id": 176,
+            "titulo": "NUNCA LO HUBIERA DICHO",
+            "autor": "Real Academia Española",
+            "isbn": "9788430623648",
+            "imagen": "./assets/img/libros/nunca lo hubiera dicho.jpg",
+            "detalleUrl": "./libros/nuncalohubieradicho.html"
+        },
+        {
+            "id": 177,
+            "titulo": "OBRA MAESTRA",
+            "autor": "Juan Tallon",
+            "isbn": "9788433999412",
+            "imagen": "./assets/img/libros/obra maestrea.jpg",
+            "detalleUrl": "./libros/obramaestra.html"
         }
     ]
 }
