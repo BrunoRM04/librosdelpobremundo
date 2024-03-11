@@ -1399,6 +1399,102 @@
             "isbn": "9788433999412",
             "imagen": "./assets/img/libros/obra maestrea.jpg",
             "detalleUrl": "./libros/obramaestra.html"
+        },
+        {
+            "id": 178,
+            "titulo": "OCEANOGRAFÍA",
+            "autor": "Mircea Eliade",
+            "isbn": "9788412123524",
+            "imagen": "./assets/img/libros/oceanografia.jpg",
+            "detalleUrl": "./libros/oceanografia.html"
+        },
+        {
+            "id": 178,
+            "titulo": "EL PAIS DE LOS OTROS",
+            "autor": "Leila Slimani",
+            "isbn": "9788412175356",
+            "imagen": "./assets/img/libros/el pais de los otros.jpg",
+            "detalleUrl": "./libros/elpaisdelostros.html"
+        },
+        {
+            "id": 179,
+            "titulo": "LA PALABRA PARA ROJO",
+            "autor": "Jon McGregor",
+            "isbn": "9788419089212",
+            "imagen": "./assets/img/libros/la palabra para rojo.jpg",
+            "detalleUrl": "./libros/lapalabrapararojo.html"
+        },
+        {
+            "id": 180,
+            "titulo": "LAS PALABRAS JUSTAS",
+            "autor": "Milena Busquets",
+            "isbn": "9788433999573",
+            "imagen": "./assets/img/libros/las palabras justas.jpg",
+            "detalleUrl": "./libros/laspalabrasjustas.html"
+        },
+        {
+            "id": 181,
+            "titulo": "PALESTINA EN PEDAZOS",
+            "autor": "Lina Meruane",
+            "isbn": "9788439742302",
+            "imagen": "./assets/img/libros/palestina en pedazos.jpg",
+            "detalleUrl": "./libros/palestinaenpedazos.html"
+        },
+        {
+            "id": 182,
+            "titulo": "PALOMAR",
+            "autor": "Italo Calvino",
+            "isbn": "9788437646497",
+            "imagen": "./assets/img/libros/palomar.jpg",
+            "detalleUrl": "./libros/palomar.html"
+        },
+        {
+            "id": 183,
+            "titulo": "PAPI",
+            "autor": "Emma Cline",
+            "isbn": "9788433981196",
+            "imagen": "./assets/img/libros/papi.jpg",
+            "detalleUrl": "./libros/papi.html"
+        },
+        {
+            "id": 184,
+            "titulo": "LA PARÁBOLA DE LOS TALENTOSOS",
+            "autor": "Octavia E. Butler",
+            "isbn": "9788412390254",
+            "imagen": "./assets/img/libros/la parabola de los talentosos.jpg",
+            "detalleUrl": "./libros/laparaboladelostalentosos.html"
+        },
+        {
+            "id": 185,
+            "titulo": "LA PARÁBOLA DEL SEMBRADOR",
+            "autor": "Octavia E. Butler",
+            "isbn": "9788412281781",
+            "imagen": "./assets/img/libros/la parabola del sembrador.jpg",
+            "detalleUrl": "./libros/laparaboladelsembrador.html"
+        },
+        {
+            "id": 186,
+            "titulo": "PEQUEÑAS DESGRACIAS SIN IMPORTANCIA",
+            "autor": "Miriam Toews",
+            "isbn": "9788419261045",
+            "imagen": "./assets/img/libros/pequeñas desgracias sin importancia.jpg",
+            "detalleUrl": "./libros/pequeñasdesgraciassinimportancia.html"
+        },
+        {
+            "id": 187,
+            "titulo": "PERDER LA CARA",
+            "autor": "Bardet",
+            "isbn": "9789873831621",
+            "imagen": "./assets/img/libros/perder la cara.jpg",
+            "detalleUrl": "./libros/perderlacara.html"
+        },
+        {
+            "id": 188,
+            "titulo": "LA PERMANENCIA EN LO NEGATIVO",
+            "autor": "Slavoj Zizek",
+            "isbn": "9789873847981",
+            "imagen": "./assets/img/libros/la permanencia en lo negativo.jpg",
+            "detalleUrl": "./libros/lapermanenciaenlonegativo.html"
         }
     ]
 }
