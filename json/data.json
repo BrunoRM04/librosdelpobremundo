@@ -1495,6 +1495,30 @@
             "isbn": "9789873847981",
             "imagen": "./assets/img/libros/la permanencia en lo negativo.jpg",
             "detalleUrl": "./libros/lapermanenciaenlonegativo.html"
+        },
+        {
+            "id": 189,
+            "titulo": "EL OTRO LADO",
+            "autor": "Mariana Enriquez",
+            "isbn": "9788433926302",
+            "imagen": "./assets/img/libros/el otro lado.jpg",
+            "detalleUrl": "./libros/elotrolado.html"
+        },
+        {
+            "id": 190,
+            "titulo": "ALGUIEN CAMINA SOBRE TU TUMBA",
+            "autor": "Mariana Enriquez",
+            "isbn": " 9789915661124",
+            "imagen": "./assets/img/libros/alguien camina sobre tu tumba.jpg",
+            "detalleUrl": "./libros/alguiencaminasobretutumba.html"
+        },
+        {
+            "id": 191,
+            "titulo": "NUESTRA PARTE DE NOCHE",
+            "autor": "Mariana Enriquez",
+            "isbn": " 9788433998859",
+            "imagen": "./assets/img/libros/nuestra parte de noche.jfif",
+            "detalleUrl": "./libros/nuestrapartedenoche.html"
         }
     ]
 }

@@ -216,6 +216,7 @@ header {
     justify-content: center;
 }
 .card {
+    position: relative;
     background-color: rgb(236, 236, 236);
     border-radius: 8px;
     padding: 20px;
@@ -261,6 +262,39 @@ header {
 }
 .comprar-button:hover {
     background-color: #800d0d;
+}
+.card-destacado::after {
+    content: "NUEVO"; /* Texto del cartel */
+    position: absolute; /* Posición absoluta con respecto al contenedor padre */
+    top: 10px; /* Ajustar la posición verticalmente */
+    left: 10px; /* Ajustar la posición horizontalmente */
+    background-color: #9e0001; /* Color de fondo del cartel */
+    color: #fff; /* Color del texto del cartel */
+    padding: 4px 8px; /* Espaciado interno del cartel */
+    border-radius: 4px; /* Borde redondeado */
+    font-size: 12px; /* Tamaño del texto */
+    font-weight: bold; /* Peso del texto */
+}
+.card-destacado {
+    position: relative;
+    background-color: rgb(236, 236, 236);
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    text-align: left;
+    transition: box-shadow 0.3s, transform 0.3s;
+}
+.card-destacado img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+}
+.card-destacado:hover{
+    box-shadow: 0 8px 12px rgba(0, 0, 0, 0.2);
+    transform: scale(1.05);
 }
 /* CONTENEDORES */
 
@@ -544,10 +578,24 @@ img {
     .container {
         grid-template-columns: repeat(1, 1fr);
     }
+    .card-destacado{
+        padding: 10px;
+        width: 85%;
+        height: auto;
+        margin-left: auto;
+        margin-right: auto;
+    }
 }
 @media (max-width: 425px) {
     .container {
         grid-template-columns: repeat(1, 1fr);
+    }
+    .card-destacado{
+        padding: 10px;
+        width: 85%;
+        height: auto;
+        margin-left: auto;
+        margin-right: auto;
     }
 }
 @media (max-width: 375px) {
@@ -563,7 +611,13 @@ img {
         margin-left: auto;
         margin-right: auto;
     }
-
+    .card-desatcado{
+        padding: 10px;
+        width: 85%;
+        height: auto;
+        margin-left: auto;
+        margin-right: auto;
+    }
     .comprar-button {
         margin-top: 15px;
     }
@@ -577,6 +631,13 @@ img {
         padding: 10px;
     }
     .card {
+        padding: 10px;
+        width: 85%;
+        height: auto;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .card-destacado{
         padding: 10px;
         width: 85%;
         height: auto;
@@ -723,6 +784,7 @@ img {
     display: flex;
     justify-content: center;
     align-items: center;
+    z-index: 9999;
   }
   
   .popup {
@@ -731,6 +793,7 @@ img {
     border-radius: 10px;
     text-align: center;
     color: white;
+    z-index: 10000;
   }
 
   .btn-close {
@@ -742,6 +805,7 @@ img {
     cursor: pointer;
     margin-top: 15px;
     transition: background-color 0.3s ease;
+    z-index: 10001;
   }
   .btn-close:hover{
     background-color: #9e0001;
@@ -944,4 +1008,34 @@ img {
     margin: 20px auto; /* Centra la imagen horizontalmente y agrega margen superior e inferior */
     max-width: 100%; /* Asegura que la imagen no exceda el ancho del contenedor */
     height: auto; /* Permite que la imagen mantenga su relación de aspecto */
+}
+
+
+
+
+.autores-destacados {
+    text-align: center;
+}
+.autor-destacado {
+    display: inline-block;
+    margin: 20px;
+}
+.circulo-destacado {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    overflow: hidden;
+    margin: 0 auto;
+}
+.circulo-destacado img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.autor-destacado p {
+    margin-top: 10px;
+}
+.circulo-destacado:hover {
+    transform: scale(1.1);
+    transition: transform 0.3s ease;
 }
