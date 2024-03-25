@@ -1519,6 +1519,22 @@
             "isbn": " 9788433998859",
             "imagen": "./assets/img/libros/nuestra parte de noche.jfif",
             "detalleUrl": "./libros/nuestrapartedenoche.html"
+        },
+        {
+            "id": 192,
+            "titulo": "LAS COSAS QUE PERDIMOS EN EL FUEGO",
+            "autor": "Mariana Enriquez",
+            "isbn": "9788433998064",
+            "imagen": "./assets/img/libros/las cosas que perdimos en el fuego.jpeg",
+            "detalleUrl": "./libros/lascosasqueperdimosenelfuego.html"
+        },
+        {
+            "id": 193,
+            "titulo": "LA HERMANA MENOR",
+            "autor": "Mariana Enriquez",
+            "isbn": "9788433998064",
+            "imagen": "./assets/img/libros/la hermana menor.jpeg",
+            "detalleUrl": "./libros/lascosasqueperdimosenelfuego.html"
         }
     ]
 }

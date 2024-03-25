@@ -59,7 +59,7 @@ function mostrarResultados(libros, query, container, originalContent) {
                 <img src="${libro.imagen}" alt="Portada del libro">
                 <p class="autor">Autor: ${libro.autor}</p>
                 <p class="isbn">ISBN: ${libro.isbn}</p>
-                <a href="${libro.detalleUrl}"">Ver Más</a>
+                <a href="https://api.whatsapp.com/send?phone=59894090711&text=Hola,%20estoy%20interesado%20en%20comprar%20${encodeURIComponent(libro.titulo)}%20de%20${encodeURIComponent(libro.autor)}." target="_blank">Pedir</a>
             `;
             container.appendChild(resultado);
         });
