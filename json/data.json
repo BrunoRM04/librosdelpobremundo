@@ -1535,6 +1535,14 @@
             "isbn": "9788433998064",
             "imagen": "./assets/img/libros/la hermana menor.jpeg",
             "detalleUrl": "./libros/lascosasqueperdimosenelfuego.html"
+        },
+        {
+            "id": 194,
+            "titulo": "LOS ALEMANES",
+            "autor": "Sergio Del Molino",
+            "isbn": "9788420476827",
+            "imagen": "./assets/img/libros/los alemanes.jpg",
+            "detalleUrl": "./libros/losalemanes.html"
         }
     ]
 }
